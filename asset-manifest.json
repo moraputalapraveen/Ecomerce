@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecomerce/static/css/main.5c68046e.css",
+    "main.js": "/Ecomerce/static/js/main.5375307f.js",
+    "static/js/453.d2bb6117.chunk.js": "/Ecomerce/static/js/453.d2bb6117.chunk.js",
+    "index.html": "/Ecomerce/index.html",
+    "main.5c68046e.css.map": "/Ecomerce/static/css/main.5c68046e.css.map",
+    "main.5375307f.js.map": "/Ecomerce/static/js/main.5375307f.js.map",
+    "453.d2bb6117.chunk.js.map": "/Ecomerce/static/js/453.d2bb6117.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c68046e.css",
+    "static/js/main.5375307f.js"
+  ]
+}
