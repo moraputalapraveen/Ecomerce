@@ -10,7 +10,7 @@ import Routing from './routing';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter><Routing/></BrowserRouter>
+    <BrowserRouter basename="/Ecomerce"><Routing/></BrowserRouter>
  
 
 
